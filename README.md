@@ -1,2 +1,2 @@
-# Team_Telephony
-A portfolio showcasing telephony systems and processes to help users with Microsoft Teams Telephony
+# Teams_Telephony
+A portfolio showcasing processes to help engineers with building out Microsoft Teams Telephony for an organization
